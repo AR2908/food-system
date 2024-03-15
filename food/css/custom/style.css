@@ -635,4 +635,7 @@ body {
   .showcase-area {
     height: 50vmax;
   }
+.btn{
+  background-color:red;
+}
 }
